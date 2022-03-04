@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&display=swap');
+
+h1 {
+    font-family: 'Kanit', sans-serif;
+    color: #467302;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+    color: #467302;
+}
+
+#subtitulo {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    text-transform: lowercase;
+    color: #467302;
+}
+
+h3 {
+    font-family: 'Kanit', sans-serif;
+    color: #467302;
+    text-align: end;
+}
+
+p {
+    font-family: 'Rajdhani', sans-serif;
+    text-align: start;
+    color: #97BF04;
+}
+
+#titulohabilidades {
+    font-family: 'Kanit', sans-serif;
+    color: #467302;
+    text-align: end;
+}
+
+#habilidades {
+    font-family: 'Kanit', sans-serif;
+    text-align: end;
+    color: #97BF04;
+}
+
+#descricao {
+    font-family: 'Rajdhani', sans-serif;
+    text-align: end;
+}
+
+a {
+    color: #97BF04;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+li {
+    font-family: 'Rajdhani', sans-serif;
+    color: #97BF04;
+}
